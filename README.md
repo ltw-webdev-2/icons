@@ -12,7 +12,7 @@ deliverables: '1 HTML file, 1 CSS file, images'
 - Write the HTML necessary and add the appropriate module classes.
 - Use only `modules.css` to create the matching layout.
 - The `grid.css` and `type.css` files shouldn’t be used.
-- **DO NOT add any CSS except to link `modules.css`—you should be able to complete whole by only adding module classes.**
+- **DO NOT add any CSS except to link `modules.css`—you should be able to complete it by only adding module classes.**
 - *Run it through Markbot and make sure it passes all the checks.*
 
 ---
