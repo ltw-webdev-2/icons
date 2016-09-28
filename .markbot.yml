@@ -1,0 +1,43 @@
+repo: 'icons'
+canvasCourse: 'web-dev-3'
+
+naming: true
+restrictFileTypes: true
+liveWebsite: true
+
+git:
+  numCommits: 1
+  allCommitted: true
+  allSynced: true
+
+html:
+  - path: 'index.html'
+    valid: true
+    bestPractices: true
+    outline: true
+    has:
+      - 'link[href="css/modules.css"]'
+      - 'ol'
+      - 'ol > li'
+      - 'i'
+      - 'span'
+      - 'img.img-flex'
+      - '.list-group'
+      - '.icon.i-64'
+      - '.icon-label'
+    search:
+      - 'Ankylosaurus'
+      - 'Hadrosaur'
+      - 'Stegosaurus'
+      - 'Triceratops'
+
+css:
+  - path: 'css/modules.css'
+    valid: true
+    bestPractices: true
+    search:
+      - ['https://modulifier.web-dev.tools/#responsive;images;list-group;embed;media-object;icons;hidden;positioning;nice-lists;buttons;forms;accessibility;print', 'Select all the different modules when adding Modulifier.']
+
+screenshots:
+  - path: 'index.html'
+    sizes: [320]
