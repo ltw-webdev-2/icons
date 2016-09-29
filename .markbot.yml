@@ -21,7 +21,7 @@ html:
       - 'ol > li'
       - 'i'
       - 'span'
-      - 'img.img-flex'
+      - 'img'
       - '.list-group'
       - '.icon.i-64'
       - '.icon-label'
