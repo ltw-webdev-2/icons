@@ -1,5 +1,5 @@
 repo: 'icons'
-canvasCourse: 'web-dev-3'
+canvasCourse: 'web-dev-2'
 
 naming: true
 restrictFileTypes: true
@@ -36,7 +36,7 @@ css:
     valid: true
     bestPractices: true
     search:
-      - ['https://modulifier.web-dev.tools/#responsive;images;list-group;embed;media-object;icons;hidden;positioning;nice-lists;buttons;forms;accessibility;print', 'Select all the different modules when adding Modulifier.']
+      - ['https://modulifier.web-dev.tools/#responsive;images;list-group;embed;media-object;icons;hidden;positioning;nice-lists;forms;buttons;accessibility;print', 'Select all the different modules when adding Modulifier.']
 
 screenshots:
   - path: 'index.html'
